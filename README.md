@@ -1,18 +1,16 @@
 # Cloud Puncher, Penetration Tester, Automation Geek
 
-I’m an IT engineer with 15+ years of hands-on experience across infrastructure, automation, security, and platform work. I like systems that are reliable, scalable, and built to evolve without turning every change into a firefight.
+I build and run systems for a living. Most of my time goes into infrastructure, automation, security, and the messy parts in between where those things actually meet.
 
-My background spans software engineering, project delivery, cloud and infrastructure operations, scalable storage, Active Directory, Kubernetes, and offensive security. That mix gives me a practical view of how technology, operations, and security need to fit together in the real world.
+I’ve spent 15+ years working across software engineering, cloud and infrastructure operations, storage, Active Directory, Kubernetes, and offensive security. That has taught me to care less about buzzwords and more about whether a system is predictable, maintainable, and easy to operate when something breaks.
 
-I currently maintain [Container-Compose](https://github.com/Mcrich23/Container-Compose), and I spend a lot of time working with AI systems as well. That includes creating fine-tunes for pentesting and cybersecurity use cases, where model behavior, tooling, and operational discipline all matter.
+I currently maintain [Container-Compose](https://github.com/Mcrich23/Container-Compose). I also work a lot with AI, especially fine-tuning models for pentesting and cybersecurity tasks, where tooling, prompt behavior, and operational discipline matter just as much as the model itself.
 
-Automation is a core part of how I work. I look for repetitive tasks, eliminate manual drift, and turn operational pain into repeatable systems. I care about observability, maintainability, and clean failure modes because good engineering should make the next incident easier to understand, not harder.
+Automation is the part of engineering I trust most. If a task repeats, it should probably be scripted. If a process depends on memory, it should probably be documented. If a system is painful to recover, it should probably be redesigned.
 
-DevOps, to me, is not a label. It is a working style: simplify complexity, reduce friction between teams, and build platforms that help people move faster without compromising stability or security.
+I’m also studying for an MBA as my second degree after Computer Science. That has given me a wider view of how technical decisions affect operations, delivery, and business outcomes.
 
-I’m also an enrolled MBA student. It is my second degree after Computer Science, and it gives me a broader lens on how technical execution connects to strategy, operations, and business outcomes.
-
-If you are working on modern infrastructure, cloud platforms, automation, cybersecurity, or scalable IT systems, let’s connect.
+If you work on infrastructure, cloud, automation, cybersecurity, or platform engineering, I’m always open to a good conversation.
 
 ## Top Skills
 
@@ -33,4 +31,3 @@ IT Consulting • Cybersecurity • Computer Networking • Backup & Recovery Sy
 - Cisco Network Defense
 - Cisco Endpoint Security
 - Cisco Ethical Hacker
-- PEN-100
