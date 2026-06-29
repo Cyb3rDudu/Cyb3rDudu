@@ -1,33 +1,23 @@
-# Cloud Puncher, Penetration Tester, Automation Geek
+# Hey there 👋
+<p>
+  <img src="https://shields.io/badge/pronouns-he/him-blue" alt="My pronouns are he/him"/>
+</p>
 
-I build and run systems for a living. Most of my time goes into infrastructure, automation, security, and the messy parts in between where those things actually meet.
+I’m Dudu.
 
-I’ve spent 15+ years working across software engineering, cloud and infrastructure operations, storage, Active Directory, Kubernetes, and offensive security. That has taught me to care less about buzzwords and more about whether a system is predictable, maintainable, and easy to operate when something breaks.
+I build and run systems for a living. Most of my work sits somewhere between infrastructure, automation, security, and the bits that become important when those things stop agreeing with each other.
 
-I currently maintain [Container-Compose](https://github.com/Mcrich23/Container-Compose). I also work a lot with AI, especially fine-tuning models for pentesting and cybersecurity tasks, where tooling, prompt behavior, and operational discipline matter just as much as the model itself.
+I’ve spent 15+ years in IT across software engineering, cloud and infrastructure operations, storage, Active Directory, Kubernetes, and offensive security. That mix keeps me practical. I care about systems that are predictable, easy to operate, and not a pain to recover.
 
-Automation is the part of engineering I trust most. If a task repeats, it should probably be scripted. If a process depends on memory, it should probably be documented. If a system is painful to recover, it should probably be redesigned.
+I currently maintain [Container-Compose](https://github.com/Mcrich23/Container-Compose). I also work a lot with AI, especially fine-tuning models for pentesting and cybersecurity use cases. On top of that, I’m studying for an MBA as my second degree after Computer Science.
 
-I’m also studying for an MBA as my second degree after Computer Science. That has given me a wider view of how technical decisions affect operations, delivery, and business outcomes.
+## Interesting stuff
 
-If you work on infrastructure, cloud, automation, cybersecurity, or platform engineering, I’m always open to a good conversation.
+- [SliverLoader](https://github.com/Cyb3rDudu/SliverLoader)
+- [MacroSliver](https://github.com/Cyb3rDudu/MacroSliver)
 
-## Top Skills
+## A few things I care about
 
-Penetration Testing • Offensive Cyber Security • Cloud Computing • Active Directory • Kubernetes
+Automation • Cloud • Security • Kubernetes • Active Directory • Backups • Systems that behave
 
-## Services
-
-IT Consulting • Cybersecurity • Computer Networking • Backup & Recovery Systems • Cloud Management • Custom Software Development • Cloud Application Development • Web Development • Information Security
-
-## Selected Certifications
-
-- OSEP
-- OSCP
-- HTB CPTS
-- HTB CWES
-- OSWP
-- Cisco Cyber Threat Management
-- Cisco Network Defense
-- Cisco Endpoint Security
-- Cisco Ethical Hacker
+If you want to talk about infrastructure, platform work, automation, or security, feel free to reach out.
