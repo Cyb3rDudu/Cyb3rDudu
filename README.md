@@ -36,7 +36,7 @@ More recently, I’ve been working extensively with AI systems and autonomous to
 
 OSCP · OSEP · OSWP · HTB CPTS · HTB CWES
 
-Hack The Box Elite Hacker · Level 94 · Top-100 Hall of Fame Labs · Under first 100 CPTS Holder
+Hack The Box Elite Hacker · Level 94 · Top-100 Hall of Fame Labs · Among the First 100 CPTS Holder
 
 ## Background
 
