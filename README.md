@@ -1,26 +1,51 @@
-# Working on infrastructure and security
+# Infrastructure, Security & AI
+
 <p>
   <img src="https://shields.io/badge/pronouns-he/him-blue" alt="My pronouns are he/him"/>
 </p>
 
 I’m Dudu.
 
-I build and run systems for a living. Most of my work sits somewhere between infrastructure, automation, security, and the bits that become important when those things stop agreeing with each other.
+I build and secure systems for a living. Most of my work sits somewhere between software engineering, infrastructure, cloud platforms, automation, and offensive security, especially where those areas start interacting in complicated ways.
 
-I’ve spent 15+ years in IT across software engineering, cloud and infrastructure operations, storage, Active Directory, Kubernetes, and offensive security. That mix keeps me practical. I care about systems that are predictable, easy to operate, and not a pain to recover.
+I’ve spent 15+ years in technology across software engineering, cloud and infrastructure operations, Kubernetes, enterprise architecture, and cybersecurity. That mix keeps me practical: I like understanding how systems are built, how they fail, how they can be attacked, and how to make them easier to operate and secure.
 
-I currently helping maintaining [Container-Compose](https://github.com/Mcrich23/Container-Compose) and work on [pi-pen-kit](https://github.com/Cyb3rDudu/pi-pen-kit) a operational agent client for C2 frameworks. I also work a lot with AI, especially fine-tuning models for pentesting and cybersecurity use cases. On top of that, I’m studying for an MBA as my second degree after Computer Science.
+More recently, I’ve been working extensively with AI systems and autonomous tooling. This includes building agent-integrated offensive-security tools, fine-tuning models for penetration-testing and cybersecurity workflows, and developing infrastructure for working with LLMs and research systems.
 
-I’ve also done OSCP, OSCE, and a few Hack The Box certs, including CPTS, CWES, and OSWP.
+## Selected projects
 
-## Interesting stuff
+- [pi-pen-kit](https://github.com/Cyb3rDudu/pi-pen-kit)  
+  Agent-integrated offensive-security tooling for AI-assisted penetration testing and red-team workflows, including C2 integrations and controlled execution interfaces.
 
-- [pi-pen-kit](https://github.com/Cyb3rDudu/pi-pen-kit)
-- [SliverLoader](https://github.com/Cyb3rDudu/SliverLoader)
-- [MacroSliver](https://github.com/Cyb3rDudu/MacroSliver)
+- [cyb3r](https://huggingface.co/Cyb3rDudu/cyb3r)  
+  Fine-tuned 27B reasoning model for autonomous offensive-security and CTF decision-making.
+
+- [SliverLoader](https://github.com/Cyb3rDudu/SliverLoader)  
+  C#/.NET and PowerShell tooling for staged Sliver C2 payload execution, combining AMSI bypass, process injection and hollowing with encrypted HTTPS staging and OpSec-oriented certificate handling.
+
+- [MacroSliver](https://github.com/Cyb3rDudu/MacroSliver)  
+  Backport of SliverLoader from .NET 4 to .NET 2 for use with DotNetToJScript-generated VBA payloads, working around CLR compatibility constraints in Microsoft Office.
+
+- [Axiom](https://github.com/Cyb3rDudu/axiom)  
+  AI-assisted research and knowledge system built around document ingestion, retrieval, structured sources and local LLM workflows.
+
+- [Shardr](https://github.com/Cyb3rDudu/shardr)  
+  Infrastructure for distributing and serving LLMs, exploring decentralized model distribution and runtime integration.
+  
+## Offensive security
+
+OSCP · OSEP · OSWP · HTB CPTS · HTB CWES
+
+Hack The Box Elite Hacker · Level 94 · Former Top-10 Labs Ranking · First 100 CPTS Holder
+
+## Background
+
+My professional work has included secure enterprise and cloud platforms, regulated banking environments, Kubernetes infrastructure, application and API security, security assessments, and architecture work across Europe, Asia, and the Americas.
+
+I’m also pursuing a part-time MBA focused on AI innovation, digital business, and organizational management, alongside my technical work.
 
 ## A few things I care about
 
-Automation • Cloud • Security • Kubernetes • Active Directory • Backups • Systems that behave
+Product Security • Offensive Security • Cloud • Kubernetes • Automation • AI Security • Distributed Systems • Systems that behave
 
-If you want to talk about infrastructure, platform work, automation, or security, feel free to reach out.
+If you want to talk about infrastructure, platform engineering, product security, offensive security, or AI systems, feel free to reach out.
